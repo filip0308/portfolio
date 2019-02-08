@@ -555,7 +555,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\kozhata\Documents\GitHub\portfolio\Portfolio.Web\app\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Workspaces\SideWork\New folder\portfolio\Portfolio.Web\app\src\styles.css */"./src/styles.css");
 
 
 /***/ })
